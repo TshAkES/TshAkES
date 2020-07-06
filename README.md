@@ -8,7 +8,7 @@ Installation
 
 install :
 
-```https://github.com/BLACKBOTSS/Black && cd Black && chmod +x install.sh && ./install.sh```
+```https://github.com/TshAkES/TshAkES/TshakES && cd TshakES && chmod +x install.sh && ./install.sh```
 
 ______________________________________________________________________________________________________________________
 
